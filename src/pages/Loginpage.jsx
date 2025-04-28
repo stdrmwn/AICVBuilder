@@ -41,7 +41,7 @@ const LoginPage = () => {
       >
         <div className="text-center mb-8">
           <h1 className="text-4xl font-extrabold tracking-tight" style={{ color: "#800040" }}>
-            HIMSI PRADITA
+            Maxy Academy
           </h1>
           <h2 className="text-2xl font-semibold mt-2 text-gray-700">Selamat Datang</h2>
           <p className="text-sm text-gray-500 mt-1">Masuk sebagai Admin</p>
