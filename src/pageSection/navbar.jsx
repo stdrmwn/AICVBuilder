@@ -151,7 +151,7 @@ export default function Navbar() {
                   </li>
                   <div className="flex justify-center gap-2 mt-3">
                     <div className="border border-[#536CE3] p-2 w-[80px] h-[40px] rounded-2xl text-center">
-                      <a href="http://localhost/WEBSITEHIMPUNAN/backendadmin/dist/pages/login/login.php" className="text-black">
+                      <a href="/Loginpage" className="text-black">
                         Login
                       </a>
                     </div>
@@ -220,7 +220,7 @@ export default function Navbar() {
           <div className="flex items-center gap-4">
             <div className="border border-[#536CE3] px-4 py-2 rounded-2xl">
               <a 
-                href="http://localhost/WEBSITEHIMPUNAN/backendadmin/dist/pages/login/login.php" 
+                href="/Loginpage" 
                 className="text-blue-500 hover:text-blue-700 transition-colors duration-300"
               >
                 Login
